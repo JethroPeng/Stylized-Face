@@ -22,7 +22,7 @@ Welcome to the official repository for **Stylized-Face: A Million-level Stylized
 4. **Compliance & Ethics**
    You must comply with applicable laws, your institution’s policies, and required ethical reviews (e.g., IRB/IEC) and privacy safeguards.
 5. **Attribution**
-   Publications or releases using this dataset must **cite** the dataset/paper (see **Citation** below).
+   Publications or releases using this dataset must **cite** the dataset/paper.
 6. **Security**
    Store data in a controlled environment with restricted access. In case of leakage or misuse, notify us **within 48 hours** in writing.
 7. **Signature & Recordkeeping**

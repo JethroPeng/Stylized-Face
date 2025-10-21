@@ -14,7 +14,7 @@ Welcome to the official repository for **Stylized-Face: A Million-level Stylized
 ## 🔒 Data Use Policy
 
 1. **Research Only**
-   Access is limited to **non-commercial academic research** and classroom experiments. No direct or indirect commercial use.
+   Access is limited to **non-commercial academic research**. No direct or indirect commercial use.
 2. **No Redistribution**
    You may not share the dataset (in whole or in part), its annotations, or derivatives with third parties without prior written approval.
 3. **Access Control**
